@@ -12,8 +12,8 @@
    pip install -r requirements.txt
 
 2. Create .env file:
-   API_KEY=your_key
-   API_SECRET=your_secret
+   API_KEY="jitQCgbE4zlotaXQGNN4zZtktp9fu1SRts9g3xtErkdyimEkCBdxVclaRLWJhCYF"
+   API_SECRET=
    BASE_URL=https://testnet.binancefuture.com
 
 ## Usage
