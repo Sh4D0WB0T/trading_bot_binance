@@ -13,7 +13,7 @@
 
 2. Create .env file:
    API_KEY="jitQCgbE4zlotaXQGNN4zZtktp9fu1SRts9g3xtErkdyimEkCBdxVclaRLWJhCYF"
-   API_SECRET=
+   API_SECRET="LrbUEH3Cr0ER1Q9izYB7qYa9JQrCUs6HvzyfMFcVhcWJdqoj91oiDeeCVJF5vCxV"
    BASE_URL=https://testnet.binancefuture.com
 
 ## Usage
